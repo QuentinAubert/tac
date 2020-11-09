@@ -11,7 +11,8 @@ sw += ["les", "plus", "cette", "fait", "faire", "être", "deux", "comme", "dont"
        "celle", "entre", "encore", "toutes", "pendant", "moins", "dire", "cela", "non",
        "faut", "trois", "aussi", "dit", "avoir", "doit", "contre", "depuis", "autres",
        "van", "het", "autre", "jusqu", "celles", "conseil", "communal", "car", "ville",
-       "bourgmestre"]
+       "bourgmestre", "collège", "commune", "quelle", "quand", "aujourd hui", "ceux", 
+       "celui", "ici"]
 
 sw = set(sw)
 
